@@ -1,0 +1,55 @@
+h1{
+    color: darkblue;
+    text-align: center;
+    background-color: darkgray;
+    font-size: 45px;
+}
+
+h2{
+    color: darkblue;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+p{
+    color: darkolivegreen;
+    font-style: italic;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+
+
+}
+
+img{
+    border-image: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+body{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 150px;
+    padding-top: 50px;
+
+}
+
+ul{
+    font-weight: bold;
+}
+
+.bgbox{
+    background-color: lightgrey;
+    padding-bottom: 30px;
+}
+
+.left{
+    wigth: 1024px;
+    margin: 0 auto;
+
+}
